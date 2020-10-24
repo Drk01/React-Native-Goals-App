@@ -19,7 +19,7 @@ const styles = StyleSheet.create({
   screen: {
     padding: 50,
   },
-  InputContainer: {
+  inputContainer: {
     flexDirection: "row",
     justifyContent: "space-between",
     alignItems: "center",
